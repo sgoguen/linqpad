@@ -1,0 +1,2 @@
+# linqpad
+Example LINQPad Scripts
